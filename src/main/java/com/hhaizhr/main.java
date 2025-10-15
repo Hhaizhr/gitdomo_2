@@ -12,8 +12,5 @@ package com.hhaizhr;
 public class main {
     public static void main(String[] args) {
         System.out.println("hello");
-
-        //第二次修改
-
     }
 }
